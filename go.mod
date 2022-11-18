@@ -9,6 +9,7 @@ require (
 	github.com/h2non/filetype v1.1.3
 	github.com/henrysworld/log v0.0.0-20221117065600-83b0fb36f40d
 	github.com/json-iterator/go v1.1.12
+	github.com/moby/term v0.0.0-20221105221325-4eb28fa6025c
 	github.com/sony/sonyflake v1.1.0
 	github.com/speps/go-hashids v2.0.0+incompatible
 	github.com/spf13/pflag v1.0.5
@@ -17,6 +18,7 @@ require (
 )
 
 require (
+	github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 // indirect
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fatih/color v1.13.0 // indirect
